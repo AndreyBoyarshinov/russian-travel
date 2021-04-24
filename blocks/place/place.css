@@ -37,7 +37,4 @@
         margin-top: 88px;
 
     }
-    .place:first-child .place__title {
-        max-width: 320px;
-    }
 }
