@@ -5,6 +5,7 @@
     color: #fff;
     transition: 0.8s;
     margin-bottom: 3px;
+    grid-area: link;
 }
 
 .place__link:hover {
