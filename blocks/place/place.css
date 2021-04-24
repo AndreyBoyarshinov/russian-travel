@@ -38,3 +38,14 @@
 
     }
 }
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .place {
+        grid-template-columns: 320px;
+        grid-template-rows: 35px 320px auto;
+        grid-row-gap: 32px;
+        padding: 0 0 48px;
+    }
+}
+.place:last-of-type {
+    padding-bottom: 0;
+}

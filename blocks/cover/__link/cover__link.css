@@ -1,6 +1,6 @@
 .cover__link {
     width: 100%;
-    min-height: 740px;
+    height: 740px;
     text-decoration: none;
     color: white;
     display: flex;
@@ -9,7 +9,6 @@
     align-items: center;
     background-image: url(../../../images/cover-trains.jpg);
     background-size: cover;
-    background-position: center;
     position: relative;
     margin: 0 auto;
     z-index: 1;
